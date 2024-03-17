@@ -6,6 +6,6 @@ pkgbase = gdome2
 	arch = any
 	license = LGPL
 	source = http://gdome2.cs.unibo.it/tarball/gdome2-0.8.1.tar.gz
-	sha512sums = SKIP
+	sha512sums = 40d9cb9ade2db3c7a196ac30cf8d9f5b48da4990250c14a53db53280ee76870b9247e973e2f2da523807faed3333d7c0f854f9546860ffbda251c12f6d404da7
 
 pkgname = gdome2
